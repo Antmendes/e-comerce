@@ -1,0 +1,32 @@
+{
+  "Book":[
+ {
+      "id": "1",
+      "name": "1984",
+      "quantity": 3,
+      "category": "Distopia",
+      "img": "assets/img/1984.jpg",
+      "price": 19.90
+  },{
+      "id": "2",
+      "name": "Mr Mercedes",
+      "quantity": 5,
+      "category": "Romance/Suspense",
+      "img": "assets/img/mrMercedes.jpg",
+      "price": 39.90
+  },{
+      "id": "3",
+      "name": "Anjos e demônios",
+      "quantity": 2,
+      "category": "Romance/Suspense",
+      "img": "assets/img/anjosDemonios.jpg",
+      "price": 19.90
+  },{
+      "id": "4",
+      "name": "O dossiê pelicano",
+      "quantity": 2,
+      "category": "Thriller",
+      "img": "assets/img/dossiePelicano.jpg",
+      "price": 29.90
+  }]
+}
